@@ -191,6 +191,22 @@ The final analysis produced the following key metrics:
 
 ---
 
+## 🎯 Business Recommendations
+
+Based on the results of the analysis, the following recommendations are proposed:
+
+- **Maintain product availability** for categories with the highest payment contribution, particularly *Seal / Baut / Roof*, to support sustained sales performance.
+
+- **Evaluate demand patterns and inventory planning** for high-volume products, particularly *Nampan / Tray*, to maintain product availability and support sales continuity.
+
+- **Consider product weight (`total_weight_gr`) as an additional variable** in transaction value analysis and operational planning, given its strongest Spearman correlation with `Total Pembayaran`.
+
+- **Conduct further evaluation of categories with high return rates** by considering transaction volume and product quantity, so that improvement priorities are not determined solely by return percentage.
+
+- **Monitor key business indicators regularly**, including sales, payment, quantity, and returns, through the analytical dashboard to support performance evaluation and data-driven decision-making.
+
+---
+
 ## 📊 Tableau Dashboard
 
 The results from the Python analysis were transformed into an interactive Tableau dashboard for business monitoring and data visualization.
