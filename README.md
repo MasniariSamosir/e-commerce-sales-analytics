@@ -2,6 +2,8 @@
 
 An end-to-end Data Analytics project using an Indonesia e-commerce transaction dataset to evaluate data quality, analyze business performance, and transform transactional data into actionable insights through Python analysis and Tableau visualization.
 
+![E-Commerce Sales Dashboard](images/E-Commerce_Sales_Dashboard.png)
+
 ---
 
 ## 🎯 Problem Statement
@@ -208,7 +210,7 @@ The results from the Python analysis were transformed into an interactive Tablea
 
 ### Dashboard Preview
 
-![E-Commerce Sales Dashboard](images/E-Commerce_Sales_Dashboard.png)
+![E-Commerce Sales Dashboard](tableu/E-Commerce_Sales_Dashboard.twbx.png)
 
 ---
 
